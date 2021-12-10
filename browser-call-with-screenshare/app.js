@@ -45,7 +45,7 @@ function initializeWebexOAuthVersion() {
       },
       // Any other sdk config we need
       credentials: {
-        client_id: 'C7c3f1143a552d88d40b2afff87600c366c830850231597fb6c1c1e28a5110a4f',
+        client_id: 'C54b07a2723a0ab16261de45f7631d8d343ee51ed7bed7f8d71d18e9e7cd0b110',
         redirect_uri,
         scope: 'spark:all spark:kms'
       }
